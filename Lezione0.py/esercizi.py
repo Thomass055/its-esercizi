@@ -219,31 +219,31 @@
  # ESERCIZIO  3
 
 
-nome_corso:str = input("inserire il nome: ")
-max_posti:int = 100
+# nome_corso:str = input("inserire il nome: ")
+# max_posti:int = 100
 
-while True:
-    opzione:str = input("inserisci opzione: ")    
-    if opzione == "iscrivi":
-        if max_posti > 0:
-            max_posti -=1
+# while True:
+#     opzione:str = input("inserisci opzione: ")    
+#     if opzione == "iscrivi":
+#         if max_posti > 0:
+#             max_posti -=1
 
-        else:
-            print("non ci sono posti disponibili: ")
+#         else:
+#             print("non ci sono posti disponibili: ")
 
-    elif opzione == "annulla":
-        if max_posti < 100:
-            max_posti += 1
+#     elif opzione == "annulla":
+#         if max_posti < 100:
+#             max_posti += 1
 
-        else:
-            print("tutti i posti sono gia disdponibili: ")
+#         else:
+#             print("tutti i posti sono gia disdponibili: ")
 
-    elif opzione == "visualizza":
-        print(max_posti)
-        print(100 - max_posti)
+#     elif opzione == "visualizza":
+#         print(max_posti)
+#         print(100 - max_posti)
 
-    elif opzione == "elimina":
-        nome_corso: str = input("inserire il nome: ")
+#     elif opzione == "elimina":
+#         nome_corso: str = input("inserire il nome: ")
 
-    elif opzione == "esci":
-        break
+#     elif opzione == "esci":
+#         break
