@@ -48,7 +48,8 @@
 # print(f"{cars_list[1]}, è il miglior marchio italiano")
 # print(f"{cars_list[2]}, è secondo solo a ferrari")
 
-#esercizio 3.4
+
+
 
 
 
