@@ -1,13 +1,13 @@
 n: int = int (input("inserire la posizione:"))
 
 if n==1:
-    print(n,"st")
+    print(f"{n}st!")
 
 elif n ==2:
-    print(n,"nd")
+    print(f"{n}nd!")
 
 elif n == 3:
-    print(n,"rd")
+    print(f"{n}rd")
 
 elif n > 3:
-    print(n,"th")
+    print(f"{n}th!")
