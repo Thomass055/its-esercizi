@@ -13,17 +13,17 @@
 
 # esercizio 2.5
 
-# author_p : str= "benedetta"
-# quote_p : str= "non ho paura delle istituzioni"
+# author_p : str= "Soren Kierkegaard"
+# quote_p : str= "La vita non è un problema da risolvere, ma una realtà da sperimentare"
 
-# print(f"{author_p}, una volta ha detto {quote_p} !")
+# print(f'{author_p}, una volta ha detto "{quote_p}!"')
 
 # esercizio 2.6
 
-# famous_person : str= "benedetta"
-# message : str= "non ho paura delle istituzioni"
+# famous_person : str= "Soren Kierkegaard"
+# message : str= "La vita non è un problema da risolvere, ma una realtà da sperimentare."
 
-# print(f"{famous_person}, una volta ha detto {message} !")
+# print(f'{famous_person}, una volta ha detto: \n"{message}!')
 
 #esercizio 3.1
 

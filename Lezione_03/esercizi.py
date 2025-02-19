@@ -19,7 +19,7 @@
 
 # famous_person_list : list = ["Totti","Baggio","Del Piero"]
 # famous_person_list.insert(1,"Maldini")
-# famous_person_list.insert(2,"Ronaldinho")
+# famous_person_list.insert((len(famous_person_list)//2),"Ronaldinho")
 # famous_person_list.append("Ronaldo")
 
 # print(f"ciao {famous_person_list[0]}, vorresti venire a cena?")
@@ -39,17 +39,6 @@
 # print(f"ciao {famous_person_list[1]}, la cena è confermata")
 
 # del famous_person_list [0]
-
-# #esercizio 3.3
-
-# cars_list : list = ["audi","ferrari","lamborghini"]
-
-# print(f"{cars_list[0]}, è il miglior marchio tedesco")
-# print(f"{cars_list[1]}, è il miglior marchio italiano")
-# print(f"{cars_list[2]}, è secondo solo a ferrari")
-
-# del famous_person_list [0]
-# print(f"famous_person_list: {famous_person_list}")
 
 # ESERCIZIO 3.8
 
