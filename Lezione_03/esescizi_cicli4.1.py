@@ -1,4 +1,4 @@
-pizza_list : list = ("Margherita" , "Marinarazxz4ex" , "Diavola")
+pizza_list : list = ("Margherita" , "Marinara" , "Diavola")
 
 for i in pizza_list:
     print(i)
